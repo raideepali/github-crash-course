@@ -1,3 +1,3 @@
 # github-crash-course
 
-#Basic of Github
+# Basic of Github
